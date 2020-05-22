@@ -1,0 +1,5 @@
+Go here to download model:
+https://drive.google.com/file/d/1u5iQqeJ3tFVw2HGPACUu4eEHm5HRJp0p/view?usp=sharing
+Extraxt it in the same directory
+Install all dependencies using pip and"install.txt"
+Strat "start_server.py"
